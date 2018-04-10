@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\obj\x86\Debug\Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\obj\x86\Debug\Test.pdb
+C:\Users\Administrator\Desktop\PageExtractor\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\PageExtractor\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\PageExtractor\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PageExtractor\Test\obj\x86\Debug\Test.exe
+C:\Users\Administrator\Desktop\PageExtractor\Test\obj\x86\Debug\Test.pdb
+C:\Users\jianjlv\source\repos\PageExtractor\Test\bin\Debug\Test.exe
+C:\Users\jianjlv\source\repos\PageExtractor\Test\bin\Debug\Test.pdb
+C:\Users\jianjlv\source\repos\PageExtractor\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jianjlv\source\repos\PageExtractor\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\jianjlv\source\repos\PageExtractor\Test\obj\x86\Debug\Test.exe
+C:\Users\jianjlv\source\repos\PageExtractor\Test\obj\x86\Debug\Test.pdb
